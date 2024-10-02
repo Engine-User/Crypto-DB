@@ -1,2 +1,2 @@
 # Crypto-DB
-A comprehensive cryptocurrency dashboard showcasing real-time market data, trends, and portfolio analytics.
+A comprehensive cryptocurrency dashboard showcasing real-time market data, trends, and portfolio analytics. Made with Power BI and Python Scripts.
